@@ -10,4 +10,4 @@ Members of the laboratory could only use specific tools.
 
 In this reposotory, the final designs are exhibited as pngs.
 
-Cadence Virtuoso Files will be added if future access to the file system of the server is granded.
+Cadence Virtuoso Files will be added if future access to the file system of the server is granted.
